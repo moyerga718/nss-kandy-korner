@@ -1,0 +1,16 @@
+.employee {
+    border: ridge pink 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.employees {
+    display: flex;
+    flex-direction: column;
+    
+}

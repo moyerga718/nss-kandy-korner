@@ -1,0 +1,14 @@
+.product {
+    border: solid red 1px;
+    background: lightpink;
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-section-container {
+    display: flex;
+}
